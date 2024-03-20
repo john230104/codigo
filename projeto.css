@@ -1,0 +1,48 @@
+
+
+nav {
+    background-color: #ededed;
+    min-height: 15vh;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    margin:0vh auto;
+    min-height: 15vh;
+    text-align: left;
+    padding-left: 95px;
+    font-size: 50px
+}
+
+main {
+    background-color: #fff;
+}
+
+nav, main {
+    min-height: 60vh;
+}
+
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 20px;
+    text-align: right;
+    padding: 50px;
+}
+
+a:hover {
+    color: #ffffff; /* cor ao passar o mouse */
+}
+
+footer {
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    min-height: 5vh;
+}
